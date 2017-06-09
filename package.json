@@ -1,0 +1,31 @@
+{
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "dependencies": {
+    "bottlejs": "*",
+    "date-fns": "*",
+    "javascript-state-machine": "*",
+    "lodash": "*",
+    "uuid-js": "*",
+    "validate.js": "*"
+  },
+  "name": "cinema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "babel-cli": "*",
+    "babel-core": "*",
+    "babel-eslint": "*",
+    "babel-jest": "*",
+    "babel-preset-env": "*",
+    "babel-preset-stage-0": "*",
+    "eslint": "*",
+    "eslint-config-airbnb-base": "*",
+    "eslint-plugin-import": "*",
+    "jest": "*"
+  }
+}
